@@ -39,6 +39,7 @@
 
 1.  **`LLM_server`**: (LLM 기반 카카오톡 챗봇 API)
 2.  **`Capstone-Python_server`**: (실내 위치 측위 및 재난 대피 경로 API)
+3.  **`MES Project`**:(AI 모델을 사용한 MES 시스템)
 
 <br>
 
